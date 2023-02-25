@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "example-invalid"
-description = "Example Extension"
+name = "invalid"
+description = "Invalid Extension"
 version="0.1.0"
-authors=["your name"]
+authors=["author"]
 packages = [
     {include = "../"}
 ]

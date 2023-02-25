@@ -1,9 +1,9 @@
 {
     "repos": [
         {
-            "id": "example-invalid",
+            "id": "invalid",
             "organisation": "jackstar12",
-            "repository": "example-invalid"
+            "repository": "invalid"
         }
     ]
 }
