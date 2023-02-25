@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "example-invalid"
+description = "Example Extension"
+version="0.1.0"
+authors=["your name"]
+packages = [
+    {include = "../"}
+]
+
+[tool.poetry.dependencies]
+# Clashing dependency
+python = "3.5"
